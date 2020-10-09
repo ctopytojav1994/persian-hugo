@@ -34,7 +34,7 @@ author = "Jane Doe"
 contact_form_action = "#"
 copyright = ""
 description = "This is meta description"
-logo = "Branded"
+logo = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandedx.com.au%2F&psig=AOvVaw2fu5cHnrXQkDa6CC2MKsFV&ust=1602343938679000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODo9bzqp-wCFQAAAAAdAAAAABAD"
 search = true
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
