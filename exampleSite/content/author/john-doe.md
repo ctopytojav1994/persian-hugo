@@ -11,4 +11,4 @@ social:
   link: "#"
 
 ---
-.
+![](/images/branded.png/branded.png).
