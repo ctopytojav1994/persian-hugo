@@ -1,6 +1,6 @@
 ---
 title: Jane Smith
-image: ''
+image: b
 email: janedo@email.com
 social:
 - icon: ti-facebook
