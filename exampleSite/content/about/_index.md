@@ -1,7 +1,7 @@
 ---
 title: ''
 image: image
-description: This is meta description.
+description: ''
 
 ---
 About 
